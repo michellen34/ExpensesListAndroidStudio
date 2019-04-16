@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tyler Mendel 60286049-->
+<!--Michelle Nguyen 87407186-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_item"
+        android:title="Add Item"  >
+    </item>
+    <item
+        android:id="@+id/search_item"
+        android:title="Search Item" >
+    </item>
+    <item
+        android:id="@+id/stats_item"
+        android:title="Stats" >
+    </item>
+</menu>
